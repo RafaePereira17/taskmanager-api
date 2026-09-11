@@ -73,3 +73,7 @@ Os testes cobrem cenários como:
 - Associação da tarefa ao usuário autenticado
 
 As dependências externas da camada de serviço são simuladas com mocks, permitindo testar as regras de negócio de forma isolada.
+
+## Status 
+ 
+ Projeto em desenvolvimento para estudos de beckend com Java e Spring Boot.
