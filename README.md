@@ -77,3 +77,9 @@ As dependências externas da camada de serviço são simuladas com mocks, permit
 ## Status 
  
  Projeto em desenvolvimento para estudos de beckend com Java e Spring Boot.
+
+ ## Proximos passos
+
+ -Documentação da API com swagger/OpenAPI
+ -Containerização com Docker
+ -Evolução da cobertura de testes
